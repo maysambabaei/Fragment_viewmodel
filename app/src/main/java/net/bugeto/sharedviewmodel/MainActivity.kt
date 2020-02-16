@@ -1,11 +1,10 @@
-package ninja.shuza.sharedviewmodel
+package net.bugeto.sharedviewmodel
 
 import android.arch.lifecycle.Observer
 import android.arch.lifecycle.ViewModelProviders
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity() {
 

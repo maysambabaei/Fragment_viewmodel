@@ -1,5 +1,4 @@
-# Shared ViewModel Sample
-### How to communicate between fragments and activity?
-Before `ViewModel` the best way was to use interface to communicate or pass date between fragments and activity. But, now we can use `ViewModel` and it will be very easy. We just need to create the ViewModel in activity scope and thats it. Just observer the ViewModel. This is a sample project to show the `Shared ViewModel` implemneteation.
-
-Tutorial and related article on [medium](https://medium.com/@shuza.sa/how-to-communicate-between-fragments-and-activity-using-viewmodel-ca733233a51c).
+# ViewModel Sample
+###ارتباط بین fragment و activity؟
+قبل از `ViewModel` بهترین راه استفاده از رابط برای برقراری ارتباط یا گذر تاریخ بین fragment و activity بود. اما اکنون می توانیم از `ViewModel` استفاده کنیم و این کار بسیار ساده خواهد بود. ما فقط باید ViewModel را در Activity scope ایجاد کنیم و آن را انجام دهیم. فقط ViewModel را مشاهده کنید. این یک پروژه نمونه برای نشان دادن استقرار 'Shared ViewModel' است.
+مقاله آموزشی و مرتبط با آن در (https://bugeto.net)مطالعه کنید

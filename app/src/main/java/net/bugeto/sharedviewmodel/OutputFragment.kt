@@ -1,4 +1,4 @@
-package ninja.shuza.sharedviewmodel
+package net.bugeto.sharedviewmodel
 
 import android.arch.lifecycle.Observer
 import android.arch.lifecycle.ViewModelProviders
